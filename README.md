@@ -8,4 +8,6 @@ This app crawls a twitter handle and writes the content in the link shared by th
 * TwitterReader.java - Access Twitter API using twitter4j
 * NewsFileWriter.java - FileWriter class
 
-Give the number of hours as program argument.
+Give the number of hours as program argument. Example : java Main 4
+
+Replace your consumerkey, consumersecret, accesstoken, accesstokensecret in twitter4j.properties

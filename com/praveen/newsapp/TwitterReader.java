@@ -1,3 +1,5 @@
+package com.praveen.newsapp;
+
 import twitter4j.Paging;
 import twitter4j.ResponseList;
 import twitter4j.Status;

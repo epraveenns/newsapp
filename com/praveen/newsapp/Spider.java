@@ -1,3 +1,5 @@
+package com.praveen.newsapp;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import twitter4j.URLEntity;

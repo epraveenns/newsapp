@@ -1,3 +1,5 @@
+package com.praveen.newsapp;
+
 public class News
 {
 	private String title;
